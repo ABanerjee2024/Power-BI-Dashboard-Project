@@ -1,9 +1,9 @@
-# Power-BI-Dashboard-Project-1
-# Analyzed E-commerce sales data, created an interactive dashboard using Power BI.
-Project Learnings
-1. Created interactive dashboard to track and analyze online sales data.
-2. Used complex parameters to drill down in worksheet and customization using filters and slicers.
-3. Created connections, join new tables, calculations to manipulate data and enable user driven 
-parameters for visualizations.
-4. Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, 
-scatter chart, line chart, area chart, map, slicers, etc)
+# Power-BI-Dashboard-Projects
+# PROJECT 1
+Analyzed E-commerce sales data, created an interactive dashboard using Power BI.
+# PROJECT 2
+Help an organization to improve employee performance and improve employee relation (reduce 
+attrition) by creating a HR Analytics dashboard.
+# PROJECT 3
+To contribute to the sucess of a business by utilizing data analysis techniques, specifically focusing on 
+time series analysis to provide valuable insight and accurate sales forecasting. 
